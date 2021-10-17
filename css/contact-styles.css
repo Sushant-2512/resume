@@ -1,0 +1,20 @@
+body{
+    background-color:#FDEFEF;
+}
+h1{
+    color:black;
+  }
+  h1::first-letter{
+       color:red;
+ }
+h3
+{
+   color:#FAAD80;
+}
+hr{
+  border-style: none;
+   border-top-style:dotted;
+   border-width: thick;
+   border-top-color:#FFB344;
+  width:20%;
+}
